@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
+<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
