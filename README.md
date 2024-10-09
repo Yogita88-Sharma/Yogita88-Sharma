@@ -15,8 +15,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
-
+<p>
+<img align="center" height="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
+<p />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yogita-sharma-yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogita-sharma-yogi" height="30" width="40" /></a>
