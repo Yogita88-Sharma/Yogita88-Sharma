@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogita Sharma</h1>
+z<h1 align="center">Hi 👋, I'm Yogita Sharma</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogita88-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="yogita88-sharma" /> </p>
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
